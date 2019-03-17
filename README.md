@@ -6,7 +6,7 @@ platform:Unity
 作成した部分  
 Assets  
 --C#  
-  --CharacterRotate.cs//キーボード操作に関するプログラム  
-    RotateSerial.cs//シリアル通信サンプルプログラム  
+----CharacterRotate.cs//キーボード操作に関するプログラム  
+----RotateSerial.cs//シリアル通信サンプルプログラム  
 --JavaScript  
-  --controller_cube.js//キーボード操作に関するプログラム  
+----controller_cube.js//キーボード操作に関するプログラム  

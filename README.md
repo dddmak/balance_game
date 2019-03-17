@@ -1,2 +1,2 @@
-# balance_game's assets  
+# balance_game
 platform:Unity

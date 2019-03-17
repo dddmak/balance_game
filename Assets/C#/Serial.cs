@@ -40,14 +40,14 @@ public class Serial : MonoBehaviour{
         this.serial.Write(start,0,5);
         while (this.isLoop)
         {
-            byte[] message1 = new byte[28];
-            this.serial.Read(message1,0,28);
-            int st = ((int)message1[26]) << 8 + (int)message1[27];
+            byte[] message1 = new byte[2];
+            this.serial.Read(message1,0,2);
+            int st = ((int)message1[0]) << 8 + (int)message1[1];
             //this.serial.Write(message1,0,1);
             //string text = System.Text.Encoding.ASCII.GetString(message1);
-            Debug.Log(message1[26]);
-            Debug.Log(message1[27]);
-            //Debug.Log(st);
+            Debug.Log(message1[0]);
+            Debug.Log(message1[1]);
+            Debug.Log(st);
         }
     }
 

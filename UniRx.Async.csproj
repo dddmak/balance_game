@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7BAC7A1D-FDB9-B3AD-3A78-66AF046EC125}</ProjectGuid>
+    <ProjectGuid>{B3EC62A3-A110-1065-A912-52B687A85CCA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UniRx.Async</AssemblyName>
@@ -325,7 +325,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/makino/Unity_project/BalanceGameVer3_1/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/makino/Unity_project/balance_serialtest/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

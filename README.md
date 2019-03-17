@@ -1,3 +1,3 @@
 # balance_game
-単純なバランスゲーム　シリアル通信で操作  
+単純なバランスゲーム　キーボードで操作
 platform:Unity

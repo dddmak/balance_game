@@ -1,2 +1,2 @@
-# balnce_game  
+# balance_game  
 platform:Unity
